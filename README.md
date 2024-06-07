@@ -1,4 +1,4 @@
-# 사용한 파이썬 패키지
+# 사용한 Python 패키지
 1. google-generativeai
 2. fastapi
 3. uvicorn
